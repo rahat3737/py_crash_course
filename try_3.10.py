@@ -1,1 +1,0 @@
-print("I can't understand. After learning high a high knowledge I will try to solve it.")
